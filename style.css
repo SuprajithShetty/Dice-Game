@@ -1,0 +1,59 @@
+body {
+  text-align: center;
+  align-content: center;
+  background-color: #DAEAF1;
+}
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  padding-right:  60px ;
+  padding-left:  60px ;
+}
+.Welcome {
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  color: #4ECCA3;
+  font-size: 4rem;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+.player1 {
+  font-family: 'Lobster', cursive;
+  color: #FF0000;
+}
+.img1 {
+  width: 45%;
+}
+.player2 {
+  font-family: 'Lobster', cursive;
+  color: #FF0000;
+}
+.img2 {
+  width: 45%;
+}
+.cont2 {
+  padding: 5% 17%;
+}
+.start {
+  margin: 17%;
+  /* padding:7%; */
+  width: 150px;
+}
+.winnere {
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  color: #4ECCA3;
+  font-size: 3rem;
+  margin: 3%;
+}
+.comp_name {
+  font-family: 'Lobster', cursive;
+  text-shadow: 2px 0 #232931;
+  color: #4ECCA3;
+  font-size: 2rem;
+}
